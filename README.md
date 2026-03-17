@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">📚 Currently learning:<br>- Advanced JavaScript<br>- Advanced Python<br>- UI/UX design in Figma<br>- Data simulation and Physics modelling  <br><br>🎯 Goals:<br>- Land a Software Engineering role in London  <br>- Create a standout project portfolio</p>
+<p align="center">📚 Currently learning:<br>- Deepening JavaScript and Python knowledge<br>- UI/UX design in Figma<br>- Data simulation and Physics modelling  <br><br>🎯 Goals:<br>- Land a Software Engineering role in London  <br>- Create a standout project portfolio</p>
 
 ###
 
